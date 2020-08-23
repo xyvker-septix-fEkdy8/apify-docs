@@ -4,7 +4,6 @@ description: Learn how to scrape the web and automate processes with Apify. From
 menuWeight: 2
 category: guides
 paths:
-    - scraping
     - tutorials
 ---
 
