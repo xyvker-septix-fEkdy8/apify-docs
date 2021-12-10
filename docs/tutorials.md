@@ -8,7 +8,9 @@ paths:
     - tutorials
 ---
 
-If you're new to Apify, [check out the Quick Start tutorial]({{@link tutorials/quick_start.md}}). It will show you how to [run existing actors]({{@link tutorials/quick_start.md#run-an-actor}}) and [create your first Apify actor]({{@link tutorials/quick_start.md#create-an-actor}}).
+# Tutorials
+
+If you're new to Apify, check out the [**quick start** tutorial]({{@link tutorials/quick_start.md}}). It will show you how to [run existing actors]({{@link tutorials/quick_start.md#run-an-actor}}) and [create your first Apify actor]({{@link tutorials/quick_start.md#create-an-actor}}).
 
 Next, learn how to [set up your first web scraping job]({{@link tutorials/apify_scrapers/getting_started.md}}) with a step-by-step guide. Then, get familiar with our main tools by following
 the [tutorial]({{@link tutorials/apify_scrapers/web_scraper.md}}) for **Web Scraper** ([apify/web-scraper](https://apify.com/apify/web-scraper)),
