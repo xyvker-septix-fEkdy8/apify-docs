@@ -1,7 +1,7 @@
 ---
 title: Crawl URLs from a Google Sheet
 description: Learn to crawl and scrape data from URLs specified in a spreadsheet with Apify scrapers. Scrape a pre-determined list of web pages with Apify actors.
-menuWeight: 3.7
+menuWeight: 3.8
 paths:
     - tutorials/crawl-a-list-of-urls-from-a-google-sheets-document
     - tutorials/crawl-urls-from-google-sheets-document
@@ -14,7 +14,7 @@ paths:
 
 These actors start with a pre-defined list of URLs ([start URLs]({{@link tutorials/apify_scrapers/getting_started.md#the-start-url}})), then recursively follow links to find new pages (optional).
 
-![Add Start URLs in Apify console]({{@asset tutorials/images/start-url.webp}})
+![Add Start URLs in Apify Console]({{@asset tutorials/images/start-url.webp}})
 
 Let's say you have the start URLs you want to crawl entered in a [Google Sheets](https://www.google.com/sheets/about/) spreadsheet, such as [this one](
 https://docs.google.com/spreadsheets/d/1GA5sSQhQjB_REes8I5IKg31S-TuRcznWOPjcpNqtxmU).
