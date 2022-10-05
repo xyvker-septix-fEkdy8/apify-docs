@@ -42,4 +42,4 @@ A single isolated actor consists of source code and various settings. You can th
 
 ## Public, private, and paid actors
 
-Actors can be public (free or [paid]({{@link actors/paid_actors.md}})) or private. Private actors are yours to use and keep, and no one will see them if you don't want them to. Public actors are [available to everyone]({{@link actors/publishing.md}}) in [Apify Store](https://apify.com/store). You can make them free to use, or you can [charge for them](https://blog.apify.com/make-regular-passive-income-developing-web-automation-actors-b0392278d085/).
+Actors can be public (free or [paid]({{@link actors/paid_actors.md}})) or private. Private actors are yours to use and keep, and no one will see them if you don't want them to. Public actors are available to everyone in [Apify Store](https://apify.com/store). You can make them free to use, or you can [charge for them](https://blog.apify.com/make-regular-passive-income-developing-web-automation-actors-b0392278d085/).
