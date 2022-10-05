@@ -54,7 +54,7 @@ The actor name is your actor's developer-style name, which is prefixed by your u
 
 However, the name should also be readable and clear enough, so that people using your actor can understand what it does just from the name.
 
-[Read more about naming you actor]({{@link actors/publishing/naming_your_actor.md}})!.
+[Read more about naming you actor]({{@link apify_platform/publishing_actors_on_apify_store/naming_your_actor.md}})!.
 
 ### Title
 
