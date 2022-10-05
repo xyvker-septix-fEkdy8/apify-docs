@@ -44,7 +44,7 @@ To publish an actor, open it in the [Apify Console](https://console.apify.com), 
 
 ## [](#permissions) Permissions
 
-Below are the permissions you can grant via the [access rights](#granting-access-rights) system, [organization account]({{@link access_rights/organization_account.md}}) and [publishing in Apify store]({{@link actors/publishing.md}}).
+Below are the permissions you can grant via the [access rights](#granting-access-rights) system, [organization account]({{@link access_rights/organization_account.md}}) and publishing in Apify store.
 
 -   The access rights system allows you to manage a **specific** user's permissions for a **specific** resource.
 -   The organization account allows you to manage **each** member's permissions for **all** of an organization's resources.
