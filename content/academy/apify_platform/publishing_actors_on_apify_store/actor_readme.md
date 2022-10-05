@@ -3,7 +3,7 @@ title: Actor README
 description: Learn how to write a comprehensive README to help users better navigate, understand and run the actor.
 menuWeight: 2
 paths:
-    - apify-platform/publishing-actors-on-apify-store/actor_readme
+    - apify-platform/publishing-actors-on-apify-store/actor-readme
 ---
 
 ## What is the point of this guide?
