@@ -51,7 +51,7 @@ Aim for sections 1-6 below and try to include at least 300 words. You can move t
     - Add a video tutorial or gif from an ideal actor run.
     - Consider adding a short numbered tutorial as Google will sometimes pick these up as rich snippets. Remember that this might be in search results, so you can repeat the name of the actor and give a link, e.g.
 
-    ![How to scrape a website - numbered tutorial]({{@asset apify_platform/publishing_actors_on_apify_store/images/how-to-scrape-targert-site.webp}})
+    ![How to scrape a website - numbered tutorial]({{@asset apify_platform/publishing_actors_on_apify_store/images/how-to-scrape-target-site.webp}})
 
 5. **Is it legal to scrape (target site)?**
 
