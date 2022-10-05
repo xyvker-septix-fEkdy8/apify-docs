@@ -30,7 +30,7 @@ Apify's organization account allows you to grant role-specific access permission
 
 ## [](#publishing-in-apify-store) Publishing in Apify Store
 
-Another way to share your actor is to [publish]({{@link actors/publishing.md}}) it in [Apify Store](https://apify.com/store). The published actor appears in Apify Store, which means that **any user will be able to view its source code and run it**.
+Another way to share your actor is to publish it in [Apify Store](https://apify.com/store). The published actor appears in Apify Store, which means that **any user will be able to view its source code and run it**.
 
 > When you publish an actor, you give every Apify user the **read** and **run** permissions.
 
@@ -46,8 +46,8 @@ To publish an actor, open it in the [Apify Console](https://console.apify.com), 
 
 Below are the permissions you can grant via the [access rights](#granting-access-rights) system, [organization account]({{@link access_rights/organization_account.md}}) and [publishing in Apify store]({{@link actors/publishing.md}}).
 
-* The access rights system allows you to manage a **specific** user's permissions for a **specific** resource.
-* The organization account allows you to manage **each** member's permissions for **all** of an organization's resources.
-* By publishing your actor in Apify Store, you grant **all** of its users **read** (view its source code) and **run** [permissions]({{@link access_rights/list_of_permissions.md}}).
+-   The access rights system allows you to manage a **specific** user's permissions for a **specific** resource.
+-   The organization account allows you to manage **each** member's permissions for **all** of an organization's resources.
+-   By publishing your actor in Apify Store, you grant **all** of its users **read** (view its source code) and **run** [permissions]({{@link access_rights/list_of_permissions.md}}).
 
 For a full list of permissions available for resources on the Apify platform, see the [List of permissions]({{@link access_rights/list_of_permissions.md}}).
