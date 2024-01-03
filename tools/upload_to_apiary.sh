@@ -20,4 +20,3 @@ if [ $? -ne 0 ]; then
     echo "ERROR: Cannot upload to Apiary (did you install apiary tool by running 'sudo gem install apiaryio'?)"
     exit 1
 fi
-
